@@ -1,4 +1,4 @@
-#**Behavioral Cloning** 
+# **Behavioral Cloning** 
 
 ### Project Summary
 In this project I trained a neural network to drive a simulated car around a track. The neural network I created
@@ -11,7 +11,7 @@ You can see a video of the car driving around the simulated track by clicking be
 
 [Here is the trained Keras model](https://github.com/kerrickstaley/CarND-Behavioral-Cloning-P3/raw/master/model.h5).
 
-###Model Architecture and Training Strategy
+### Model Architecture and Training Strategy
 
 I used a convolutional neural network with the architecture described in
 [this Nvidia article](https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/). A graphic from that
